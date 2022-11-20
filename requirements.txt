@@ -1,0 +1,9 @@
+certifi @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_4d2o0arbv6/croot/certifi_1665076671099/work/certifi
+cloudpickle==2.2.0
+gym==0.26.2
+gym-notices==0.0.8
+numpy==1.23.4
+scipy==1.9.3
+torch==1.13.0
+tqdm==4.64.1
+typing_extensions==4.4.0
